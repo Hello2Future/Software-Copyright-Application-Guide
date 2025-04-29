@@ -1,4 +1,4 @@
-# Software-Copyright-Application-Guide
+# Software-Copyright-Application-Guide(持续更新)
 计算机软件著作权登记申请指南
 
 ## 背景
