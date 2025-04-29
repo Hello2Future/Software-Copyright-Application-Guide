@@ -1,5 +1,6 @@
 # Software-Copyright-Application-Guide(持续更新)
-计算机软件著作权登记申请指南
+计算机软件著作权登记申请指南。
+
 **这可能是github上最全的、面向开发者的软著申请指南**
 
 ## 背景
