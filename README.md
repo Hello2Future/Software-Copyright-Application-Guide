@@ -4,10 +4,7 @@
 
 # 软件著作权申请指南（持续更新）🚀
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/Software-Copyright-Application-Guide?style=social)](https://github.com/yourusername/Software-Copyright-Application-Guide) 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/Software-Copyright-Application-Guide/pulls)
-
-**可能是全网最实用的开发者向软著申请避坑指南**，由独立开发者社区共同维护
+**可能是全网最实用的开发者向软著申请避坑指南**，由独立开发者Hello2Future维护
 
 ---
 
